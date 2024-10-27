@@ -3,7 +3,7 @@
 ## Online Store Performance
 
 ### RFM (Recency, Frequency and Monetary Value) and Trends Visualisation
-###### Make Sure you Have Power BI Desktop for PBIX file to Interact with the data
+###### Make Sure you Have Power BI Desktop for PBIX file to Interact with the Dashbords
 
 #### First Dashboard (RFM)
 
