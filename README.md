@@ -1,4 +1,10 @@
 # Power BI Data Visualisation
 ### Online Store RFM and Trends Visualisation
 
-![image](https://github.com/user-attachments/assets/08f0358e-99ce-4a7a-b465-033f91179169)
+#### First Dashboard
+
+![image](https://github.com/user-attachments/assets/6b5d95ff-68fa-4ed4-b382-e0e23dcbb845)
+
+#### Second Dashboard
+
+![image](https://github.com/user-attachments/assets/e145dc17-8d3d-4a8b-9146-40690d3778ae)
